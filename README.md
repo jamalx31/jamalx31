@@ -14,6 +14,10 @@
 
 - 🗣️ **[OpenClaw Vox](https://github.com/jamalx31/openclaw-vox)** — macOS menu-bar voice assistant for OpenClaw. Push-to-talk, local speech-to-text, streaming TTS replies.
 
+### Legacy Work
+
+- 🤖 **[Bobo](https://github.com/jamalx31/bobo)** — AI assistance built with Python.
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@jamalx31-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jamalx31)
