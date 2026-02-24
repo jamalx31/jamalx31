@@ -12,6 +12,7 @@
 
 ## Projects
 
+- ✨ **[Summon](https://github.com/jamalx31/raycast-summon)** — Raycast extension to summon groups of app windows to the front. Define named groups and switch between them instantly.
 - 🦞 **[OpenClaw Raycast](https://github.com/jamalx31/openclaw-raycast)** — Raycast extension for OpenClaw agents. Typed chat, voice chat with live transcription, REST & WebSocket transport.
 - 🗣️ **[OpenClaw Vox](https://github.com/jamalx31/openclaw-vox)** — macOS menu-bar voice assistant for OpenClaw. Push-to-talk, local speech-to-text, streaming TTS replies.
 
